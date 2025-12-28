@@ -1,8 +1,8 @@
 {
-    "Version":  "2.0.0.0",
-    "ReleaseNotes":  "Nuova architettura di distribuzione e supporto utenti integrato.\n\n- Nuovo menu Supporto per segnalare problemi e proporre miglioramenti\n- Sistema di aggiornamento migliorato con repository dedicato\n- Contatto diretto via email (taogest@dottorgiorgio.it)",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v2.0.0.0/TaoGEST-Setup-v2.0.0.0.exe",
+    "Version":  "1.0.0.0",
+    "ReleaseNotes":  "Prima release pubblica di TaoGEST.\n\n- Gestione completa terapia anticoagulante orale con Warfarin\n- Calcolo automatico dosaggio basato su valori INR\n- Monitoraggio TTR (Time in Therapeutic Range)\n- Gestione interazioni farmacologiche\n- Pianificazione bridge therapy per interventi chirurgici\n- Switch terapia DOAC-Warfarin\n- Export PDF report per il paziente\n- Guide professionali integrate\n- Sistema di aggiornamento automatico\n- Supporto utenti via GitHub e email",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.0.0.0/TaoGEST-Setup-v1.0.0.0.exe",
     "ReleaseDate":  "2025-12-28",
-    "Sha256Hash":  "2B925013351898AAB935239BE31B2BC4FA89E56761C0537FEC5344FD544454F6",
-    "FileSize":  78801568
+    "Sha256Hash":  "A5E97F6BF9B4CEF2949462E984E7B5D8522F032D2CBB30B1A15ECD03688C8E2D",
+    "FileSize":  78797375
 }
