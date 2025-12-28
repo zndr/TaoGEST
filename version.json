@@ -1,8 +1,8 @@
 {
-    "Version":  "1.5.0.3",
-    "ReleaseNotes":  "Aggiunto video tutorial per aggiornamento applicazione. Finestre guide ora non modali.",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.5.0.3/TaoGEST-Setup-v1.5.0.3.exe",
+    "Version":  "2.0.0.0",
+    "ReleaseNotes":  "Nuova architettura di distribuzione e supporto utenti integrato.\n\n- Nuovo menu Supporto per segnalare problemi e proporre miglioramenti\n- Sistema di aggiornamento migliorato con repository dedicato\n- Contatto diretto via email (taogest@dottorgiorgio.it)",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v2.0.0.0/TaoGEST-Setup-v2.0.0.0.exe",
     "ReleaseDate":  "2025-12-28",
-    "Sha256Hash":  "3CBE4E6EAAE2FCAD24F75C90982166B1B0A66761029F834315B32204763C1DBE",
-    "FileSize":  78788017
+    "Sha256Hash":  "2B925013351898AAB935239BE31B2BC4FA89E56761C0537FEC5344FD544454F6",
+    "FileSize":  78801568
 }
