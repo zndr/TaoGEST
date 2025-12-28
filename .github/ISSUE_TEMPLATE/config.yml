@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Domande e Supporto
+    url: https://github.com/zndr/TaoGEST/discussions/categories/domande
+    about: Hai domande sull'uso di TaoGEST? Chiedi nella sezione Discussions!
+  - name: Contatto Email
+    url: mailto:taogest@dottorgiorgio.it
+    about: Preferisci l'email? Scrivi a taogest@dottorgiorgio.it

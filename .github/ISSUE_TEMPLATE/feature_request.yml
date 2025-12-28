@@ -1,0 +1,46 @@
+name: Richiesta Funzionalita
+description: Proponi una nuova funzionalita o un miglioramento
+title: "[Richiesta]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per il tuo suggerimento! Le tue idee ci aiutano a migliorare TaoGEST.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione della funzionalita
+      description: Descrivi la funzionalita che vorresti vedere nell'applicazione
+      placeholder: "Sarebbe utile poter..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema che risolve
+      description: Quale problema o esigenza risolverebbe questa funzionalita?
+      placeholder: "Attualmente devo... e sarebbe piu comodo se..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative considerate
+      description: Hai considerato altre soluzioni? Come gestisci attualmente questa esigenza?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Quanto e importante per te?
+      options:
+        - "Sarebbe comodo averla"
+        - "Mi farebbe risparmiare tempo"
+        - "E essenziale per il mio lavoro"
+    validations:
+      required: false

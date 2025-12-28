@@ -1,0 +1,65 @@
+name: Segnalazione Bug
+description: Segnala un problema o un malfunzionamento dell'applicazione
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per segnalare questo problema! Compila il modulo per aiutarci a risolverlo.
+
+  - type: input
+    id: version
+    attributes:
+      label: Versione TaoGEST
+      description: Quale versione stai usando? (Trovi la versione in Aiuto > Informazioni)
+      placeholder: "es. 1.5.0.3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrizione del problema
+      description: Descrivi cosa non funziona correttamente
+      placeholder: "Quando clicco su... l'applicazione..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passi per riprodurre il problema
+      description: Come possiamo riprodurre il problema?
+      placeholder: |
+        1. Apri l'applicazione
+        2. Vai su...
+        3. Clicca su...
+        4. Appare l'errore...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento atteso
+      description: Cosa ti aspettavi che succedesse?
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshot
+      description: Se possibile, allega screenshot del problema (trascina le immagini qui)
+    validations:
+      required: false
+
+  - type: input
+    id: windows
+    attributes:
+      label: Versione Windows
+      description: Quale versione di Windows stai usando?
+      placeholder: "es. Windows 11, Windows 10"
+    validations:
+      required: false

@@ -4,13 +4,13 @@ Repository pubblico per la distribuzione degli aggiornamenti di **TaoGEST** (Ges
 
 ## Download
 
-**Ultima versione:** Vai alla sezione [Releases](https://github.com/zndr/TaoGEST/releases) per scaricare l'installer.
+**[Scarica l'ultima versione](https://github.com/zndr/TaoGEST/releases/latest)**
 
 ## Cos'e TaoGEST?
 
 TaoGEST e un'applicazione desktop per Windows dedicata ai medici di medicina generale italiani per la gestione della terapia anticoagulante orale (TAO) con Warfarin.
 
-### Funzionalita principali:
+### Funzionalita principali
 
 - Gestione pazienti in terapia anticoagulante
 - Calcolo automatico del dosaggio Warfarin basato sui valori INR
@@ -29,9 +29,33 @@ TaoGEST e un'applicazione desktop per Windows dedicata ai medici di medicina gen
 
 L'applicazione verifica automaticamente la disponibilita di nuovi aggiornamenti all'avvio e periodicamente durante l'uso.
 
+---
+
 ## Supporto
 
-Per segnalazioni di bug o richieste di funzionalita, contatta lo sviluppatore.
+### Hai trovato un problema?
+
+**[Segnala un bug](https://github.com/zndr/TaoGEST/issues/new?template=bug_report.yml)** - Aiutaci a migliorare TaoGEST segnalando malfunzionamenti
+
+### Hai un'idea per migliorare l'app?
+
+**[Proponi una funzionalita](https://github.com/zndr/TaoGEST/issues/new?template=feature_request.yml)** - Le tue idee sono preziose!
+
+### Hai domande sull'utilizzo?
+
+**[Chiedi nella community](https://github.com/zndr/TaoGEST/discussions)** - Confrontati con altri utenti e ottieni supporto
+
+### Preferisci l'email?
+
+Scrivi a **[taogest@dottorgiorgio.it](mailto:taogest@dottorgiorgio.it)** per assistenza diretta.
+
+---
+
+## Contatti
+
+- **Email:** taogest@dottorgiorgio.it
+- **Issues:** [github.com/zndr/TaoGEST/issues](https://github.com/zndr/TaoGEST/issues)
+- **Discussions:** [github.com/zndr/TaoGEST/discussions](https://github.com/zndr/TaoGEST/discussions)
 
 ---
 
