@@ -1,8 +1,8 @@
 {
-    "Version":  "1.0.0.0",
-    "ReleaseNotes":  "Prima release pubblica di TaoGEST.\n\nGESTIONE TERAPIA ANTICOAGULANTE:\n- Gestione completa terapia anticoagulante orale con Warfarin\n- Supporto completo per DOACs (Anticoagulanti Orali Diretti)\n- Calcolo automatico dosaggio basato su valori INR\n- Monitoraggio TTR (Time in Therapeutic Range)\n- Gestione interazioni farmacologiche\n- Pianificazione bridge therapy per interventi chirurgici\n- Switch terapia DOAC-Warfarin e viceversa\n- Export PDF report per il paziente\n\nGUIDE E DOCUMENTAZIONE PROFESSIONALE:\n- Guide dettagliate per l'utilizzo del programma\n- Documentazione professionale sulla TAO (linee guida FCSA-SIMG 2024, ACCP/ACC 2012)\n- Schede tecniche da fonti istituzionali (AIFA, EMA)\n- Tabelle interazioni farmacologiche aggiornate\n\nFUNZIONALITÀ AGGIUNTIVE:\n- Sistema di aggiornamento automatico\n- Supporto utenti via GitHub e email",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.0.0.0/TaoGEST-Setup-v1.0.0.0.exe",
+    "Version":  "1.1.0.0",
+    "ReleaseNotes":  "Corretto bug al primo avvio: errore \u0027no such column: d.FiscalCode\u0027 durante abilitazione integrazione Millewin",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.0.0/TaoGEST-Setup-v1.1.0.0.exe",
     "ReleaseDate":  "2025-12-28",
-    "Sha256Hash":  "CF22D7690308CF95008057CD83D3DD45320DBC96B8366BCB249850FE4F2EDDC9",
-    "FileSize":  78801625
+    "Sha256Hash":  "D2F59D64BE444B31F2E441111B977AFAF9B225BFAA0501F75E40E7D05AD55F00",
+    "FileSize":  78794127
 }
