@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.0.0",
-    "ReleaseNotes":  "Corretto bug al primo avvio: errore \u0027no such column: d.FiscalCode\u0027 durante abilitazione integrazione Millewin",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.0.0/TaoGEST-Setup-v1.1.0.0.exe",
-    "ReleaseDate":  "2025-12-28",
-    "Sha256Hash":  "D2F59D64BE444B31F2E441111B977AFAF9B225BFAA0501F75E40E7D05AD55F00",
-    "FileSize":  78794127
+    "Version":  "1.1.1.0",
+    "ReleaseNotes":  "Correzione bug critico nel wizard di configurazione iniziale paziente: il pulsante Annulla causava un loop infinito. Aggiunto supporto F1 per la guida contestuale nel wizard.",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.1.0/TaoGEST-Setup-v1.1.1.0.exe",
+    "ReleaseDate":  "2026-01-01",
+    "Sha256Hash":  "3F7EEACF32009E4273F83B4A6D7491A7F5AB81D87070EB02F16867A43846D561",
+    "FileSize":  79021418
 }
