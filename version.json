@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.1.0",
-    "ReleaseNotes":  "Correzione bug critico nel wizard di configurazione iniziale paziente: il pulsante Annulla causava un loop infinito. Aggiunto supporto F1 per la guida contestuale nel wizard.",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.1.0/TaoGEST-Setup-v1.1.1.0.exe",
+    "Version":  "1.1.2.0",
+    "ReleaseNotes":  "Risolto errore di permessi WebView2 all'apertura della guida contestuale (E_ACCESSDENIED).",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.2.0/TaoGEST-Setup-v1.1.2.0.exe",
     "ReleaseDate":  "2026-01-01",
-    "Sha256Hash":  "3F7EEACF32009E4273F83B4A6D7491A7F5AB81D87070EB02F16867A43846D561",
-    "FileSize":  79021418
+    "Sha256Hash":  "44DA76316E5B2B018D65F10AEDA8B0BEEDF81E3953EA5E8BA6A03B8A961D212A",
+    "FileSize":  79021035
 }
