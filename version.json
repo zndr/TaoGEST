@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.3.0",
-    "ReleaseNotes":  "Corretta guida contestuale: inclusi file documentazione nell'installer.",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.3.0/TaoGEST-Setup-v1.1.3.0.exe",
+    "Version":  "1.1.3.1",
+    "ReleaseNotes":  "Fix: Ricerca dinamica chiave ODBC Millewin nel registry (supporta nomi chiave variabili). Aggiunto logging per troubleshooting connessione Millewin.",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.3.1/TaoGEST-Setup-v1.1.3.1.exe",
     "ReleaseDate":  "2026-01-01",
-    "Sha256Hash":  "8032DE6ED6F57F597F6EBE575EFF96E411A566337C9111F350FF2BFC955BE8C1",
-    "FileSize":  79031011
+    "Sha256Hash":  "5AE1A7779CDF624F74B313AE0DAF5A01A298E32C17947861B1865E440529EBC1",
+    "FileSize":  79031796
 }
