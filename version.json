@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.5.0",
-    "ReleaseNotes":  "- Corretto contrasto testo nel dialog Statistiche Pazienti (legende grafici, tab, tabelle)",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.5.0/TaoGEST-Setup-v1.1.5.0.exe",
+    "Version":  "1.1.5.1",
+    "ReleaseNotes":  "- Fix: Colore legende grafici nel dialog Statistiche Pazienti ora si adatta al tema chiaro/scuro\n- Fix: Corretti segnaposto nel testo della licenza",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.5.1/TaoGEST-Setup-v1.1.5.1.exe",
     "ReleaseDate":  "2026-01-02",
-    "Sha256Hash":  "38CD62416D9A9304CD088FF8AE17C044EDC401D5483B73481827EBD17C824253",
-    "FileSize":  81655547
+    "Sha256Hash":  "A1B94E61BA2D79D6F3EA4E3E1C2BECD4334D124DAB5C8D517B72D4EBCC9222ED",
+    "FileSize":  81693752
 }
