@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.3.2",
-    "ReleaseNotes":  "Migliorato logging per troubleshooting aggiornamenti automatici.",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.3.2/TaoGEST-Setup-v1.1.3.2.exe",
-    "ReleaseDate":  "2026-01-01",
-    "Sha256Hash":  "58DBA8356E5D39A75607CCBB951ECCA02B02DC31DC101175C98DAC3710DDE19D",
-    "FileSize":  79031830
+    "Version":  "1.1.4.0",
+    "ReleaseNotes":  "Aggiunte voci menu Supporto per gestione log. Migliorata connessione Millewin.",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.4.0/TaoGEST-Setup-v1.1.4.0.exe",
+    "ReleaseDate":  "2026-01-02",
+    "Sha256Hash":  "F508C53F3478C1AA075310A01A6A29B88BBC26A8FD0625A8F822E59DD761367B",
+    "FileSize":  81692131
 }
