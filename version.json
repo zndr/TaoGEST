@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.4.0",
-    "ReleaseNotes":  "Aggiunte voci menu Supporto per gestione log. Migliorata connessione Millewin.",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.4.0/TaoGEST-Setup-v1.1.4.0.exe",
+    "Version":  "1.1.5.0",
+    "ReleaseNotes":  "- Corretto contrasto testo nel dialog Statistiche Pazienti (legende grafici, tab, tabelle)",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.5.0/TaoGEST-Setup-v1.1.5.0.exe",
     "ReleaseDate":  "2026-01-02",
-    "Sha256Hash":  "F508C53F3478C1AA075310A01A6A29B88BBC26A8FD0625A8F822E59DD761367B",
-    "FileSize":  81692131
+    "Sha256Hash":  "38CD62416D9A9304CD088FF8AE17C044EDC401D5483B73481827EBD17C824253",
+    "FileSize":  81655547
 }
