@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.5.1",
-    "ReleaseNotes":  "- Fix: Colore legende grafici nel dialog Statistiche Pazienti ora si adatta al tema chiaro/scuro\n- Fix: Corretti segnaposto nel testo della licenza",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.5.1/TaoGEST-Setup-v1.1.5.1.exe",
-    "ReleaseDate":  "2026-01-02",
-    "Sha256Hash":  "A1B94E61BA2D79D6F3EA4E3E1C2BECD4334D124DAB5C8D517B72D4EBCC9222ED",
-    "FileSize":  81693752
+    "Version":  "1.1.6.0",
+    "ReleaseNotes":  "- Corretto bug checkbox 'Escludi quarti di compressa' che resettava il dosaggio suggerito\n- Migliorata formattazione copia negli appunti dello schema settimanale (una riga per giorno)\n- Ottimizzato PDF schema settimanale per formato A4 (pagina singola)\n- Aggiunta valutazione 4D al PDF dello schema settimanale\n- Implementata logica specifica per sospensione warfarin in base a INR alto",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.6.0/TaoGEST-Setup-v1.1.6.0.exe",
+    "ReleaseDate":  "2026-01-03",
+    "Sha256Hash":  "21F34ECF602D2D5255B7E877D845320EEFE0D46C0C7F125FFC1921C3F842668E",
+    "FileSize":  81698308
 }
