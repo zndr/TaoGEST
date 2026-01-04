@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.6.0",
-    "ReleaseNotes":  "- Corretto bug checkbox 'Escludi quarti di compressa' che resettava il dosaggio suggerito\n- Migliorata formattazione copia negli appunti dello schema settimanale (una riga per giorno)\n- Ottimizzato PDF schema settimanale per formato A4 (pagina singola)\n- Aggiunta valutazione 4D al PDF dello schema settimanale\n- Implementata logica specifica per sospensione warfarin in base a INR alto",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.6.0/TaoGEST-Setup-v1.1.6.0.exe",
-    "ReleaseDate":  "2026-01-03",
-    "Sha256Hash":  "21F34ECF602D2D5255B7E877D845320EEFE0D46C0C7F125FFC1921C3F842668E",
-    "FileSize":  81698308
+    "Version":  "1.1.7.0",
+    "ReleaseNotes":  "- Importazione interazioni farmacologiche da Millewin\n- Ricerca automatica farmaci con interazioni note nella cartella clinica\n- Supporto per Warfarin e tutti i DOACs\n- Fix attivazione integrazione Millewin al checkbox\n- Messaggi informativi migliorati",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.7.0/TaoGEST-Setup-v1.1.7.0.exe",
+    "ReleaseDate":  "2026-01-04",
+    "Sha256Hash":  "6303E0EDFA6CD2834D2D0AEFEB88314DC1A69BC957164ACCF772E2A9E31F9E7D",
+    "FileSize":  81728321
 }
