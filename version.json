@@ -1,8 +1,8 @@
 {
-    "Version":  "1.1.7.0",
-    "ReleaseNotes":  "- Importazione interazioni farmacologiche da Millewin\n- Ricerca automatica farmaci con interazioni note nella cartella clinica\n- Supporto per Warfarin e tutti i DOACs\n- Fix attivazione integrazione Millewin al checkbox\n- Messaggi informativi migliorati",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.1.7.0/TaoGEST-Setup-v1.1.7.0.exe",
-    "ReleaseDate":  "2026-01-04",
-    "Sha256Hash":  "6303E0EDFA6CD2834D2D0AEFEB88314DC1A69BC957164ACCF772E2A9E31F9E7D",
-    "FileSize":  81728321
+    "Version":  "1.2.0.0",
+    "ReleaseNotes":  "- Wizard di onboarding per nuovi utenti\n- Configurazione guidata al primo avvio\n- Tour interattivo delle funzionalità principali",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.2.0.0/TaoGEST-Setup-v1.2.0.0.exe",
+    "ReleaseDate":  "2026-01-08",
+    "Sha256Hash":  "B2BC0E298BFB18830A1223E5612320AE99C6C75D9CC58B5E764049FF50E557BC",
+    "FileSize":  81894031
 }
