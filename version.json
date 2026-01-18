@@ -1,8 +1,8 @@
 {
-    "Version":  "1.2.0.0",
-    "ReleaseNotes":  "- Wizard di onboarding per nuovi utenti\n- Configurazione guidata al primo avvio\n- Tour interattivo delle funzionalità principali",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.2.0.0/TaoGEST-Setup-v1.2.0.0.exe",
-    "ReleaseDate":  "2026-01-08",
-    "Sha256Hash":  "B2BC0E298BFB18830A1223E5612320AE99C6C75D9CC58B5E764049FF50E557BC",
-    "FileSize":  81894031
+    "Version":  "1.2.1.0",
+    "ReleaseNotes":  "- Wizard gestione perioperatoria completo con guida interattiva\n- Nuova guida HTML con calcolatori CrCl e tempi sospensione DOAC\n- Tab Perioperatorio nelle guide professionali\n- Supporto completo tema scuro nel wizard",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.2.1.0/TaoGEST-Setup-v1.2.1.0.exe",
+    "ReleaseDate":  "2026-01-18",
+    "Sha256Hash":  "231CCB3BC2F9A323A64095B48D955F0F93A40006641A8BF601CAA9940245372E",
+    "FileSize":  81973547
 }
