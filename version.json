@@ -1,8 +1,8 @@
 {
-    "Version":  "1.2.1.0",
-    "ReleaseNotes":  "- Wizard gestione perioperatoria completo con guida interattiva\n- Nuova guida HTML con calcolatori CrCl e tempi sospensione DOAC\n- Tab Perioperatorio nelle guide professionali\n- Supporto completo tema scuro nel wizard",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.2.1.0/TaoGEST-Setup-v1.2.1.0.exe",
-    "ReleaseDate":  "2026-01-18",
-    "Sha256Hash":  "231CCB3BC2F9A323A64095B48D955F0F93A40006641A8BF601CAA9940245372E",
-    "FileSize":  81973547
+    "Version":  "1.6.0.0",
+    "ReleaseNotes":  "- PDF perioperatorio ottimizzato per singola pagina\n- Pulsante Stampa in Sospensioni DOAC per generare PDF\n- Eliminazione piani storico con F3/Canc\n- Pulsante Calcola Sospensione disabilitato senza procedura selezionata\n- Aggiornata guida utente",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.6.0.0/TaoGEST-Setup-v1.6.0.0.exe",
+    "ReleaseDate":  "2026-01-28",
+    "Sha256Hash":  "6FE8059B7949E742ACAB1732DC42B633C14E60F65815AE7E7BB7B33076BB4B95",
+    "FileSize":  81990430
 }
