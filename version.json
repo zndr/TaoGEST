@@ -1,8 +1,8 @@
 {
-    "Version":  "1.3.0.0",
-    "ReleaseNotes":  "- PDF perioperatorio ottimizzato per singola pagina\n- Pulsante Stampa in Sospensioni DOAC per generare PDF\n- Eliminazione piani storico con F3/Canc\n- Pulsante Calcola Sospensione disabilitato senza procedura selezionata\n- Aggiornata guida utente",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.3.0.0/TaoGEST-Setup-v1.3.0.0.exe",
-    "ReleaseDate":  "2026-01-28",
-    "Sha256Hash":  "9B33B957CB53E5510470DA5A248C03EB42FA5266C14A82BC60584843752CD534",
-    "FileSize":  81992375
+    "Version":  "1.3.1.0",
+    "ReleaseNotes":  "Miglioramenti Switch Terapia:\n- Risolto errore inizializzazione WebView2 (cartella dati in AppData)\n- Pre-compilazione automatica dati paziente (anticoagulante, peso, ClCr, INR)\n- Dosaggio corretto per farmaco target (DOAC→Warfarin mostra dose Warfarin)\n- Form nascosto durante switch in corso, visibile solo storico\n- Migliorata interazione card storico (click non chiude la card)\n- Aggiunto pulsante stampa PDF protocollo per promemoria paziente",
+    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.3.1.0/TaoGEST-Setup-v1.3.1.0.exe",
+    "ReleaseDate":  "2026-02-05",
+    "Sha256Hash":  "E5213AE0192C1F44236928E432808D4B12D6D8CA84205013A10C70923FA72D9E",
+    "FileSize":  82004527
 }
