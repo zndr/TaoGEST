@@ -1,8 +1,8 @@
 {
-    "Version":  "1.3.1.0",
-    "ReleaseNotes":  "Miglioramenti Switch Terapia:\n- Risolto errore inizializzazione WebView2 (cartella dati in AppData)\n- Pre-compilazione automatica dati paziente (anticoagulante, peso, ClCr, INR)\n- Dosaggio corretto per farmaco target (DOAC→Warfarin mostra dose Warfarin)\n- Form nascosto durante switch in corso, visibile solo storico\n- Migliorata interazione card storico (click non chiude la card)\n- Aggiunto pulsante stampa PDF protocollo per promemoria paziente",
-    "DownloadUrl":  "https://github.com/zndr/TaoGEST/releases/download/v1.3.1.0/TaoGEST-Setup-v1.3.1.0.exe",
-    "ReleaseDate":  "2026-02-05",
-    "Sha256Hash":  "E5213AE0192C1F44236928E432808D4B12D6D8CA84205013A10C70923FA72D9E",
-    "FileSize":  82004527
+    "Version": "1.4.0.0",
+    "ReleaseNotes": "- Controindicazioni direction-aware: sezione specifica per DOAC e per Warfarin\n- Switch DOAC a Warfarin sempre consentito (rimosso blocco paradossale)\n- Dosaggio Warfarin (Coumadin) in multipli di 2.5mg con orario ore 18\n- Orario assunzione DOAC al mattino per Edoxaban e Dabigatran (in grassetto)\n- Timeline da Giorno 1 con data selezionabile e date incrementali\n- PDF promemoria paziente ottimizzato per stampa monocromatica (B/W)\n- Istruzioni INR al Giorno 5 per protocollo Edoxaban\n- Fix precaricamento peso da dati importati Millewin\n- Fix calcolo ClCr per formato decimale (compatibilita JavaScript)",
+    "DownloadUrl": "https://github.com/zndr/TaoGEST/releases/download/v1.4.0.0/TaoGEST-Setup-v1.4.0.0.exe",
+    "ReleaseDate": "2026-02-07",
+    "Sha256Hash": "ECEE8732A773AAB76759CEB024243C610135A9DD8884E975EC3069A55983B0EF",
+    "FileSize": 82010195
 }
